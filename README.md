@@ -1,0 +1,2 @@
+# rpush
+Restricted Push configuration
